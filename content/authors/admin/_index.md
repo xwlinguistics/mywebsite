@@ -8,7 +8,7 @@ education:
   - course: MA Linguistics
     institution: Syracuse University, New York, U.S.
     year: 2021
-  - course: MA Applied Linguistics and Language Acquisition
+  - course: MA Applied Linguistics
     institution: Universitat de Barcelona, Barcelona, Spain.
     year: 2018
   - course: MA TESOL
@@ -21,11 +21,11 @@ education:
 email: "xuan.wang@ku.edu"
 highlight_name: true
 interests:
-- Psycholinguistics & Sentence Processing
+- Psycholinguistics
 - Neurolinguistics
-- First & Second Language Acquisition 
+- Language Acquisition 
 - Computational Linguistics
-- Communication Sciences and Language Disorders
+- Theoretical syntax
 
 organizations:
 - name: University of Kansas
@@ -53,4 +53,4 @@ title: Xuan Wang
 
 Xuan Wang is currently a doctoral student in linguistics at the University of Kansas. His research mainly employs psycholinguistic (e.g., eye-tracking) and brain-imaging (e.g., EEG) techniques to study first and second language processing and acquisition.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV-Xuan Wang.pdf" "newtab" >}}CV{{< /staticref >}}.
