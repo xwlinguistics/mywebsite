@@ -51,6 +51,6 @@ superuser: true
 title: Xuan Wang
 ---
 
-Xuan Wang is currently a doctoral student in linguistics at the University of Kansas. His research mainly employs psycholinguistic (e.g., eye-tracking) and brain-imaging (e.g., EEG) techniques to study first and second language processing and acquisition.
+Xuan Wang is currently a second-year doctoral student in linguistics at the University of Kansas. His research mainly employs psycholinguistic (e.g., eye-tracking) and brain-imaging (e.g., EEG) techniques to study first and second language processing and acquisition.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV-Xuan Wang.pdf" "newtab" >}}CV{{< /staticref >}}.
