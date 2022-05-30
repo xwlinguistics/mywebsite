@@ -37,7 +37,13 @@ feature:
   - description: 70%
     icon: eye
     icon_pack: fas
-    name: eye-tracking
+    name: Eye-tracking
+    
+  - description: 100%
+    icon: book
+    icon_pack: fas
+    name: SPSS
+    
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

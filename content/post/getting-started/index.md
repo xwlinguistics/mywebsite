@@ -1,30 +1,22 @@
 ---
 authors:
 - admin
-- 吳恩達
 categories:
-- Demo
-- 教程
-date: "2020-12-13T00:00:00Z"
+- Languages
+
 draft: false
-featured: false
+featured: true
+lastmod: "2022-05-30T00:00:00Z"
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ""
   placement: 2
   preview_only: false
-lastmod: "2020-12-13T00:00:00Z"
 projects: []
-subtitle: "Welcome \U0001F44B We know that first impressions are important, so we've
-  populated your new site with some initial content to help you get familiar with
-  everything in no time."
-summary: "Welcome \U0001F44B We know that first impressions are important, so we've
-  populated your new site with some initial content to help you get familiar with
-  everything in no time."
+subtitle: "Welcome \U0001F44B I am a Chinese language teacher and used to teach Mandarin Chinese to college students at Syracuse University from 2019 to 2021."
+
 tags:
 - Academic
-- 开源
-title: Welcome to Wowchemy, the website builder for Hugo
+title: Mandarin Chinese
 ---
 
 ## Overview
