@@ -1,5 +1,5 @@
 ---
-bio: My research interests include psycholinguistics and neurolinguistics of first and second language acquisition. 
+bio: I am doctoral student in linguistics at the University of Kansas. My research interests include psycholinguistics and neurolinguistics of first and second language acquisition and processing. 
 education:
   courses:
   - course: PhD student in Linguistics
@@ -51,6 +51,10 @@ superuser: true
 title: Xuan Wang
 ---
 
-Xuan Wang is currently a second-year doctoral student in linguistics at the University of Kansas. His research mainly employs psycholinguistic (e.g., eye-tracking) and brain-imaging (e.g., EEG) techniques to study first and second language processing and acquisition.
+I am currently a second-year doctoral student in the [Linguistics Department](https://linguistics.ku.edu) at [the University of Kansas](https://ku.edu), under the supervision of [Dr. Fiorentino](http://people.ku.edu/~fiore355/), [Dr. Gabriele](http://people.ku.edu/~gabriele/), and [Dr. Minai](http://people.ku.edu/~minai/). My research mainly investigates first and second language acquisition of morphosyntax and semantics with the use of psycholinguistic (e.g., eye-tracking) and brain-imaging (e.g., EEG) techniques. In particular, I am interested in exploring how first and second language learners comprehend sentences in real time, with regards to the effects of individual differences (e.g., working memory), cross-linguistic influences, and other factors on the cognitive processes of language processing and acquisition.
+
+Before coming to KU Linguistics, I was trained in linguistic theory and communication sciences and disorders (CSD) at [Syracuse University](https://www.syracuse.edu). I received training in the Diversity in Language and Literacy Lab at the [CSD Department](https://thecollege.syr.edu/department-communication-sciences-disorders/), and am excited about working on typical and atypical language acquisition among bilingual children in the future. Besides, from the perspective of theoretical linguistics, I worked on a syntax project in the light verb structure in Teochew, as well as a phonological project on tone circle in Teochew, at the [Languages, Literature, & Linguistics Department](https://thecollege.syr.edu/languages-literatures-and-linguistics/). I would also be interested in future research on the syntax of Chinese languages.
+
+I also moonlight as an applied linguist. I conducted research in language learning and teaching in the past few years. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV-Xuan Wang.pdf" "newtab" >}}CV{{< /staticref >}}.

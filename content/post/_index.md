@@ -3,6 +3,6 @@ cms_exclude: true
 header:
   caption: ""
   image: ""
-title: Courses
+title: Teaching
 view: 2
 ---
