@@ -10,7 +10,7 @@ authors:
 # Author notes (optional)
 
 date: '2020-10-12T00:00:00Z'
-doi: '10.36505/ExLing-2020/11/0054/000469'
+
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2020-10-121T00:00:00Z'
@@ -23,7 +23,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *International society of Experimental Linguistics*
-publication_short: In *ExLing 2020L*
+publication_short: In *ExLing 2020*
 
 # Summary. An optional shortened abstract.
 
@@ -32,10 +32,7 @@ tags: []
 # Display this page in the Featured widget?
 featured: true
 
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+url_pdf: 'https://exlingsociety.com/past-proceedings/#2020'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

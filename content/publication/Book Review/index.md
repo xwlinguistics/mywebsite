@@ -10,7 +10,6 @@ authors:
 # Author notes (optional)
 
 date: '2019-08-13T00:00:00Z'
-doi: 'https://linguistlist.org/issues/30/30-3103/'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2019-08-1311T00:00:00Z'
@@ -43,6 +42,8 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
   preview_only: true
+
+url_pdf: 'https://linguistlist.org/issues/30/30-3103/'
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

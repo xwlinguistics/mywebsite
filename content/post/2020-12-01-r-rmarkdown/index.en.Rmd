@@ -1,37 +1,23 @@
 ---
-title: "Hello R Markdown"
-author: "Frida Gomam"
-date: 2020-12-01T21:13:14-05:00
-categories: ["R"]
-tags: ["R Markdown", "plot", "regression"]
+title: "Mandarin Chinese @ Syracuse University"
+author: "Xuan Wang"
+date: 2022-05-30
+categories: ["Foreign Languages"]
+tags: ["Asian", "Chinese", "Mandarin"]
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-# R Markdown
+# CHI 101 Introductory ChineseI
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+This is an intro course to beginner of Mandarin Chinese. For more information, please use the link to access the syllabus <http://rmarkdown.rstudio.com>.
 
-You can embed an R code chunk like this:
 
-```{r cars}
-summary(cars)
-fit <- lm(dist ~ speed, data = cars)
-fit
-```
+# CHI 102 Introductory ChineseII
 
-# Including Plots
+This another intro Mandarin Chinese course, following CHI 101. For more information, please use the link to access the syllabus <http://rmarkdown.rstudio.com>.
 
-You can also embed plots. See Figure \@ref(fig:pie) for example:
-
-```{r pie, fig.cap='A fancy pie chart.', tidy=FALSE}
-par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
-  col = c('#0292D8', '#F7EA39', '#C4B632'),
-  init.angle = -50, border = NA
-)
-```
+# CHI 200 Daily conversation in Chinese
+This is a second-level Mandarin conversaion course for learners to practise the oral Chinese skills. For more information, please use the link to access the syllabus <http://rmarkdown.rstudio.com>.
