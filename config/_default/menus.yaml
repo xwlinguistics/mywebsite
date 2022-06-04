@@ -13,7 +13,7 @@ main:
   - name: Research
     url: '#Research'
     weight: 20
-  - name: Talks
+  - name: Conference presentations
     url: '#talks'
     weight: 50
   - name: Publication

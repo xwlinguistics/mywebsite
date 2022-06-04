@@ -1,51 +1,32 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac
-  convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac
-  faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien
-  eu, pulvinar tempor diam.
+abstract: Vocabulary size has been well acclaimed to be vital for successful foreign language learning. Pertinent research examining different groups of intermediate or advanced L2 learners has revealed significant relationships between variables such as receptive vocabulary size, general English proficiency, and separate language skills. The principal objective of this study is to enrich L2 vocabulary learning scholarship by exploring the relationship of receptive vocabulary size to general English proficiency as well as the four language skills in Chinese low-proficient EFL learners. To fulfil the research aim, the study was conducted with an intact class of thirty-nine young EFL learners from a primary school in China. The participants were asked to complete a background questionnaire, a vocabulary size test and an English proficiency test. More specifically, these students’ vocabulary size was measured by Vocabulary Size Test (Nation & Beglar, 2007) and their English proficiency was assessed by Cambridge exam PET at B1 CEFR level which consists of four sections for the four language skills. The results from the correlation tests and multivariate linear regression analysis suggested that at a low proficient level, receptive vocabulary size was significantly related to reading, writing, general proficiency, and speaking in a descending order of the correlation coefficients and no correlation was found with listening, which could be explained by limited L2 exposure and formal instruction, and a lack of urgency for phonological vocabulary. The findings of this study add to our understanding of the effect of vocabulary size on English proficiency among low-proficient EFL learners, and provide pedagogical implications for vocabulary teaching and learning.
 address:
-  city: Stanford
+  city: Marietta
   country: United States
-  postcode: "94305"
-  region: CA
-  street: 450 Serra Mall
+  postcode: "30067"
+  region: GA
+  street: 2900 Delk Road Suite 700, PMB 321
 all_day: false
 authors: []
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-event: Wowchemy Conference
-event_url: https://example.org
+date: "2021-03-20T13:00:00Z"
+date_end: "2021-03-23T15:00:00Z"
+event: American Association for Applied Linguistics 2021
+event_url: https://www.aaal.org
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-location: Wowchemy HQ
+
+location:
 projects:
 - example
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: An example talk using Wowchemy's Markdown slides feature.
+publishDate: "2021-03-20T00:00:00Z"
+summary:
 tags: []
-title: Example Talk
+title: AAAL 2021--L2 vocabulary learning motivation and self-regulated strategies
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
