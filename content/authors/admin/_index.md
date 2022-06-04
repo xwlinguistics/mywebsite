@@ -1,5 +1,5 @@
 ---
-bio: I am doctoral student in linguistics at the University of Kansas. My research interests include psycholinguistics and neurolinguistics of first and second language acquisition and processing. 
+bio: I am a doctoral student in linguistics at the University of Kansas. My research interests include psycholinguistics and neurolinguistics of first and second language acquisition and processing. 
 education:
   courses:
   - course: PhD student in Linguistics

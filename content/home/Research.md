@@ -27,10 +27,18 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+      
+    - name: Psycho-Neurolinguistics
+      tag: Psycho-Neurolinguistics
+  
+    - name: Language Acquisition
+      tag: Language Acquisition
+      
+    - name: Linguistic Theory
+      tag: Linguistic Theory
+      
+    - name: Others
+      tag: Applied Linguistics & Sociolinguistics
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
