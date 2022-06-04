@@ -38,7 +38,7 @@ content:
       tag: Linguistic Theory
       
     - name: Others
-      tag: Applied Linguistics & Sociolinguistics
+      tag: Others
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
