@@ -10,7 +10,7 @@ main:
   - name: Teaching
     url: '#teaching copy'
     weight: 45
-  - name: Research
+  - name: Research projects
     url: '#Research'
     weight: 20
   - name: Conference presentations

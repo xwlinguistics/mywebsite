@@ -22,7 +22,7 @@ projects:
 publishDate: "2021-03-20T00:00:00Z"
 summary:
 tags: []
-title: ExLing2020--L2 vocabulary learning motivation by Chinese EFL learners
+title: ExLing 2020--L2 vocabulary learning motivation by Chinese EFL learners
 url_code: ""
 url_pdf: ""
 url_slides: ""
