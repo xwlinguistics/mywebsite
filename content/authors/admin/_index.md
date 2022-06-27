@@ -46,7 +46,7 @@ social:
   link: https://github.com/xwlinguistics
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/xuan-wang-a2b053104/
+  link: https://www.linkedin.com/in/xuan-wang-66a969242/
 superuser: true
 title: Xuan Wang
 ---
