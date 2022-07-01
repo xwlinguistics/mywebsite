@@ -16,9 +16,12 @@ main:
   - name: Conference presentations
     url: '#talks'
     weight: 50
-  - name: Publication
+  - name: Publications
     url: '#publications'
     weight: 30
+  - name: Skills
+    url: '#skills'
+    weight: 55
   - name: Contact
     url: '#contact'
     weight: 60

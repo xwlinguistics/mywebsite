@@ -16,30 +16,30 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
+  - description: 
     icon: r-project
     icon_pack: fab
     name: R
-  - description: 100%
+  - description: 
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 70%
+  - description: 
     icon: laptop
     icon_pack: fas
     name: Python
     
-  - description: 70%
+  - description: 
     icon: brain
     icon_pack: fas
     name: EEG
     
-  - description: 70%
+  - description: 
     icon: eye
     icon_pack: fas
     name: Eye-tracking
     
-  - description: 100%
+  - description: 
     icon: book
     icon_pack: fas
     name: SPSS
