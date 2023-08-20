@@ -24,7 +24,7 @@ content:
    country: United States
    country_code: US
   office_hours:
-    - 'Mondays 11:00 to 13:00'
+    - 'Mondays/Wednesday 9:45 to 10:45'
 
 
   # Automatically link email and phone or display as text?
