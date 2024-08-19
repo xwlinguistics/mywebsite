@@ -16,7 +16,10 @@ subtitle:
 My teaching mainly focuses on Linguistics and Mandarin Chinese at the college level. Currently I am a graduate teaching assistant in Linguistics at the University of Kansas. Before that, I was an instructor of record in Mandarin Chinese at Syracuse University for two years. The courses are listed below; click the course name for a sample syllabus. 
 
 Linguistics
-- [LING 110: Language and Mind](https://drive.google.com/file/d/1y5dRW4aRIKhU46zg64aOwixmdp3iVSD5/view?usp=share_link). Fall 2022/2023, with [Dr. Politzer-Ahles](http://people.ku.edu/~sjpa/)
+
+- LING 325: Syntax. Fall 2024, with [Dr. Gluckan](https://linguistics.ku.edu/people/john-gluckman)
+
+- [LING 110: Language and Mind](https://drive.google.com/file/d/1y5dRW4aRIKhU46zg64aOwixmdp3iVSD5/view?usp=share_link). Fall 2022/2023,Spring 2024/Summer 2024 with [Dr. Politzer-Ahles](http://people.ku.edu/~sjpa/)
 
 - [LING 320: Language in Culture and Society](https://drive.google.com/file/d/1mJNb4jeu-AnELKYbv836ipH23ynt_UxZ/view?usp=sharing). Spring2023/Summer 2022/Spring 2022/Fall 2021/ with [Dr. Duncan](https://linguistics.ku.edu/philip-duncan)
 

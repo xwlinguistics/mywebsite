@@ -16,7 +16,7 @@ content:
   # Contact (edit or remove options as required)
   email: xuan.wang@ku.edu
   
-  directions: Blake Hall--Office 113
+  directions: Blake Hall--Office 406
   address:
    street: Department of Linguistics, University of Kansas
    city: Lawrence
