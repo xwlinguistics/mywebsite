@@ -17,7 +17,7 @@ My teaching mainly focuses on Linguistics and Mandarin Chinese at the college le
 
 Linguistics
 
-- LING 325: Syntax. Fall 2024, with [Dr. Gluckan](https://linguistics.ku.edu/people/john-gluckman)
+- LING 325: Syntax. Fall 2024, with [Dr. Gluckman](https://linguistics.ku.edu/people/john-gluckman)
 
 - [LING 110: Language and Mind](https://drive.google.com/file/d/1y5dRW4aRIKhU46zg64aOwixmdp3iVSD5/view?usp=share_link). Fall 2022/2023,Spring 2024/Summer 2024 with [Dr. Politzer-Ahles](http://people.ku.edu/~sjpa/)
 
