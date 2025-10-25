@@ -1,56 +1,48 @@
 ---
-# An instance of the Portfolio widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: portfolio
+# Blank widget
+widget: blank
+active: true
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 100
 
-title: Research projects
-subtitle: ''
-
-content:
-  # Page type to display. E.g. project.
-  page_type: project
-
-  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  filter_default: 0
-
-  # Filter toolbar (optional).
-  # Add or remove as many filters (`filter_button` instances) as you like.
-  # To show all items, set `tag` to "*".
-  # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-    - name: All
-      tag: '*'
-      
-    - name: Psycho-Neurolinguistics
-      tag: Psycho-Neurolinguistics
-  
-    - name: Language Acquisition
-      tag: Language Acquisition
-      
-    - name: Linguistic Theory
-      tag: Linguistic Theory
-      
-    - name: Others
-      tag: Others
-
-design:
-  # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
-
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   5 = Showcase
-  view: 1
-
-  # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+title: Research
+subtitle:
 ---
+### 🧠 Neurolinguistics & Language Processing
+
+I examine how the brain represents and processes words and sentences in real time in L1 and L2, and how **linguistic factors** (e.g., cross-linguistic influence) and individual differences in **cognitive abilities** (e.g., working memory, verbal abilities) modulate real-time language comprehension.
+
+**Selected Publications & Presentations**
+- Wang, X., Fiorentino, R., & Gabriele, A. (under review). *Examining individual differences in the processing of long-distance dependencies in L1 and L2 English.* Submitted to **Language Learning**.
+- Wang, X., Gabriele, A., & Fiorentino, R. (2025). *Investigating sensitivity to binding constraints in L1 and L2 English using ERPs.* Poster presented at the **Society for the Neurobiology of Language** Meeting (SNL 2025), September 12–14, 2025.
+- Wang, X., Gabriele, A., & Fiorentino, R. (2025). *Examining sensitivity to subject-verb agreement in a second language (L2): An ERP investigation.* Poster presented at the **Cognitive Neuroscience Society** meeting, March 29–April 1, 2025.
+
+
+### 👶 Developmental Psycholinguistics
+
+This strand investigates how **typical and atypical** learners, including bilingual children and children with language disorders, acquire **abstract grammatical and semantic knowledge**, and how language experience and cognitive resources affect developmental trajectories.
+
+**Selected Publications & Presentations**
+- Wang, X., & Minai, U. (under review). *Children’s use of discourse cues to resolve ambiguity: A case study on Mandarin-speaking children’s comprehension of ambiguous wh-adjuncts.* Submitted to **First Language**.
+- Wang, X., McMillen, S., & Shi, Y. (2025). *The roles of L1 transfer, L2 exposure, and morphological salience in bilingual children’s morpheme development.* *Frontiers in Psychology, 16*. https://doi.org/10.3389/fpsyg.2025.1566442
+- Wang, X., & Shi, Y. (2025). *Examining mother-child interaction input quality and its impact on late talkers’ lexical and syntactic development.* Poster presented at the **Cognitive Science 2025**, July 30–August 2, 2025.
+
+
+
+### 🤖 Computational and Educational Approach to Language
+
+I integrate **NLP** and **LLM-based analyses** to analyze discourse and text use. I also conduct studies that translate linguistics and psychology research into educational practice.
+
+**Selected Publications & Presentations**
+- Gok, E., **Wang, X.**, Joyner, D., & Rusch, A. (accepted). *Examining discourse in a large online education program: A machine-in-the-loop approach.* In *Proceedings of the 57th ACM Technical Symposium on Computer Science Education (SIGCSE ’26).* ACM.
+- Gok, E., **Wang, X.**, Joyner, D., & Rusch, A. (2025). *Public perceptions and communications of a large online graduate program.* In *Proceedings of the 2025 IEEE Digital Education and MOOCs Conference (DEMOcon).* IEEE.
+- Wang, X., & Tragant, E. (2022). *The effect of written text on comprehension of spoken English as a foreign language: A replication study.* *International Review of Applied Linguistics in Language Teaching, 60*(3), 625–645. https://doi.org/10.1515/iral-2018-0350
+
+
+
+
+

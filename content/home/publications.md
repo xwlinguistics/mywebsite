@@ -1,41 +1,32 @@
 ---
-# An instance of the Pages widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+# Blank widget
+widget: blank
+active: true
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 100
 
-title: Publication
-subtitle: ''
-
-content:
-  # Filter on criteria
-  filters:
-    folders:
-      - publication
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 0
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
-design:
-  # Choose a view for the listings:
-  view: citation
-  columns: '2'
+title: Teaching
+subtitle:
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+My teaching mainly focuses on Linguistics and Mandarin Chinese at the college level. Currently I am a graduate teaching assistant and instructor of record in Linguistics at the University of Kansas. Before that, I was an instructor of record in Mandarin Chinese at Syracuse University for two years. The courses are listed below; click the course name for a sample syllabus. 
+
+Linguistics
+
+- LING 325: Syntax, with [Dr. Gluckman](https://linguistics.ku.edu/people/john-gluckman)
+
+- [LING 110: Language and Mind](https://drive.google.com/file/d/1y5dRW4aRIKhU46zg64aOwixmdp3iVSD5/view?usp=share_link) with [Dr. Politzer-Ahles](https://linguistics.ku.edu/people/stephen-politzer-ahles)
+
+- [LING 320: Language in Culture and Society](https://drive.google.com/file/d/1mJNb4jeu-AnELKYbv836ipH23ynt_UxZ/view?usp=sharing) with [Dr. Duncan](https://linguistics.ku.edu/people/philip-duncan)
+
+Mandarin Chinese
+- [CHI 101: Introductory Chinese I](https://drive.google.com/file/d/1sdYYMuDF5eH_N118-7fuWMr4EsE974lL/view?usp=sharing). 
+
+- [CHI 102: Introductory Chinese II](https://drive.google.com/file/d/1nx5YrWFcoC81R44ew6oB0Cb3eJcvXagQ/view?usp=sharing). 
+
+- [CHI 200: Daily Conversation in Chinese](https://drive.google.com/file/d/1r8MfzISZ3_TE-7DcuBpOklP2IZGPS6oX/view?usp=sharing). 
+

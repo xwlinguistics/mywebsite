@@ -2,35 +2,37 @@
 bio: I am a doctoral student in linguistics at the University of Kansas. My research interests include psycholinguistics and neurolinguistics of first and second language acquisition and processing. 
 education:
   courses:
-  - course: PhD student in Linguistics
+  - course: PhD in Linguistics
     institution: University of Kansas, Kansas, U.S.
-    year: 2021-Present
+    year: June 2026 (Expected)
+  - course: MS in Computer Science
+    institution: Georgia Institute of Technology
+    year: June 2026 (Expected)
   - course: MA Linguistics
     institution: Syracuse University, New York, U.S.
     year: 2021
   - course: MA Applied Linguistics
     institution: Universitat de Barcelona, Barcelona, Spain.
     year: 2018
-  - course: MA TESOL
-    institution: University of Bath, England, U.K.
-    year: 2016
-  - course: BA English Language & Literature
-    institution: Beijing Language & Culture University, China.
-    year: 2015
+  #- course: MA TESOL
+   # institution: University of Bath, England, U.K.
+    #year: 2016
+  #- course: BA English Language & Literature
+   # institution: Beijing Language & Culture University, China.
+  #  year: 2015
     
 email: "xuan.wang@ku.edu"
 highlight_name: true
 interests:
-- Psycholinguistics 
 - Neurolinguistics
-- Language Acquisition 
+- Language Acquisition
+- Language Disorders
 - Computational Linguistics
-- Theoretical syntax
 
 organizations:
 - name: University of Kansas
   url: https://ku.edu/
-role: Ph.D. student in Linguistics
+role: Ph.D. candidate in Linguistics
 social:
 - icon: envelope
   icon_pack: fas
@@ -51,12 +53,10 @@ superuser: true
 title: Xuan Wang
 ---
 
-I am currently a fourth-year doctoral student in the [Linguistics Department](https://linguistics.ku.edu) at [the University of Kansas](https://ku.edu), under the supervision of [Dr. Fiorentino](http://people.ku.edu/~fiore355/), [Dr. Gabriele](http://people.ku.edu/~gabriele/), and [Dr. Minai](http://people.ku.edu/~minai/). My research investigates first and second language acquisition of morphosyntax and semantics with the use of psycholinguistic (e.g., eye-tracking) and brain-imaging (e.g., EEG) techniques. In particular, I am interested in exploring how first and second language learners comprehend sentences in real time, with regards to the effects of individual differences (e.g., working memory), cross-linguistic influences, and other factors, on the cognitive processes of language processing and acquisition.
+I am currently a Ph.D. candidate in Linguistics in the [Linguistics Department](https://linguistics.ku.edu) at the University of Kansas, under the supervision of [Dr. Fiorentino](http://people.ku.edu/~fiore355/), [Dr. Gabriele](http://people.ku.edu/~gabriele/), [Dr. Minai](http://people.ku.edu/~minai/), and [Dr. Politzer-Ahles](https://politzerahles.github.io). 
 
-Before coming to KU Linguistics, I was trained in linguistic theory and communication sciences and disorders (CSD) at [Syracuse University](https://www.syracuse.edu). I received training in the Diversity in Language and Literacy Lab at the [CSD Department](https://thecollege.syr.edu/department-communication-sciences-disorders/), and am excited about working on typical and atypical language acquisition among bilingual children in the future. Besides, I worked with linguistics professors at the [Languages, Literatures, & Linguistics Department](https://thecollege.syr.edu/languages-literatures-and-linguistics/) at Syracuse, and conducted research on the morphosyntax and phonology of Chinese languages such as Teochew and Mandarin. 
+My research advances three strands: (1) **Neurolinguistics & Cognitive Neuroscience of Language**, examining how the brain represents and processes first and second language in real time; (2) **Language Development**, investigating how typically developing children, children with language disorders, and bilingual learners acquire abstract linguistic knowledge; and (3) **Computational Linguistics**, using NLP and large language models to model input statistics and predict learning and processing difficulty.
 
-Currently, I am developing my research interests in computational linguistics and being trained in computer science and programming. In the future, I would love to employ computational modelling for my research on language processing. 
+In my research, I combine EEG/ERP, behavioral method (eye-tracking), corpus-based analyses and computational approaches.
 
-I also moonlight as an applied linguist, and I conducted research in language learning and teaching in the past few years. 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV-Xuan Wang.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Wang_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
