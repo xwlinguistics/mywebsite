@@ -42,7 +42,7 @@ social:
   link: https://twitter.com/Xuan85096389
 - icon: graduation-cap
   icon_pack: fas
-  link: https://linguistics.ku.edu/xuan-wang
+  link: https://linguistics.ku.edu/people/xuan-wang
 - icon: github
   icon_pack: fab
   link: https://github.com/xwlinguistics
