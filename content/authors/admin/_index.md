@@ -53,7 +53,7 @@ superuser: true
 title: Xuan Wang
 ---
 
-I am currently a Ph.D. candidate in Linguistics in the [Linguistics Department](https://linguistics.ku.edu) at the University of Kansas, under the supervision of [Dr. Fiorentino](http://people.ku.edu/~fiore355/), [Dr. Gabriele](http://people.ku.edu/~gabriele/), [Dr. Minai](http://people.ku.edu/~minai/), and [Dr. Politzer-Ahles](https://politzerahles.github.io). 
+I am currently a Ph.D. candidate in Linguistics in the [Linguistics Department](https://linguistics.ku.edu) at the University of Kansas, under the supervision of [Dr. Fiorentino](https://linguistics.ku.edu/people/robert-fiorentino), [Dr. Gabriele](https://linguistics.ku.edu/people/alison-gabriele), [Dr. Minai](https://linguistics.ku.edu/people/utako-minai), and [Dr. Politzer-Ahles](https://politzerahles.github.io). 
 
 My research advances three strands: (1) **Neurolinguistics & Cognitive Neuroscience of Language**, examining how the brain represents and processes first and second language in real time; (2) **Language Development**, investigating how typically developing children, children with language disorders, and bilingual learners acquire abstract linguistic knowledge; and (3) **Computational Linguistics**, using NLP and large language models to model input statistics and predict learning and processing difficulty.
 
